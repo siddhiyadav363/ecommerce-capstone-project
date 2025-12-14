@@ -1,0 +1,9 @@
+com\example\order_service\controller\OrderController.class
+com\example\order_service\entity\OrderItem.class
+com\example\order_service\repository\OrderRepository.class
+com\example\order_service\OrderServiceApplication.class
+com\example\order_service\service\OrderService.class
+com\example\order_service\client\InventoryResponse.class
+com\example\order_service\entity\Order.class
+com\example\order_service\repository\OrderItemRepository.class
+com\example\order_service\client\InventoryClient.class
